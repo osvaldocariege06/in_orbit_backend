@@ -1,7 +1,1 @@
-POST http://localhost:3333/goals
-# Content-Length: 'aplication-json'
-
-{
-  "title": "Nadar",
-  "desiredWeeklyFrequency": "1"
-}
+GET http://localhost:3333/summary
